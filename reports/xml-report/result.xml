@@ -1,0 +1,10 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="2" package="C:\Users\testinium\IdeaProjects\DenemeGaugeEducation\specs\example.spec" time="9.828" timestamp="2022-05-31T14:29:42" name="Getting Started with Gauge" errors="0" hostname="DESKTOP-Q31IV6Q">
+		<properties></properties>
+		<testcase classname="Getting Started with Gauge" name="Product Search" time="9.828">
+			<failure message="Product Search&#xA;Scenario Post Hook Failure: &#39;Runner is not Alive&#39;" type="Product Search&#xA;Scenario Post Hook Failure: &#39;Runner is not Alive&#39;"></failure>
+		</testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>
